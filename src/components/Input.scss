@@ -1,0 +1,21 @@
+.input {
+	display: flex;
+	height: 4em;
+	flex: 1;
+	background: rgb(35, 184, 255);
+	background: linear-gradient(
+		90deg,
+		rgba(35, 184, 255, 1) 0%,
+		rgba(58, 45, 255, 1) 82%,
+		rgba(10, 7, 230, 1) 100%
+	);
+	color: rgba(255, 255, 255, 0.904);
+	justify-content: flex-end;
+	padding: 0.5em;
+	font-weight: bold;
+	font-size: 2em;
+	align-items: center;
+	letter-spacing: 5px;
+	border-top-left-radius: 20px;
+	border-top-right-radius: 20px;
+}

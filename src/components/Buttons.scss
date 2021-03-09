@@ -1,0 +1,20 @@
+.button {
+	display: flex;
+	height: 4em;
+	flex: 1;
+	justify-content: center;
+	align-items: center;
+	font-weight: lighter;
+	font-size: 1.4em;
+	background-color: #cf2175a9;
+	color: rgba(38, 255, 0, 0.938);
+	cursor: pointer;
+	outline: none;
+	text-shadow: 1px 4px 4px rgba(23, 25, 184, 0.6);
+}
+
+.operator {
+	background-color: #fe9241;
+	color: #fff;
+	border-left: rgba(240, 248, 255, 0.479) 1px solid;
+}
